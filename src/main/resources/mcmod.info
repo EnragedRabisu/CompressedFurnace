@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CompressedFurnace",
+  "name": "Compressed Furnace",
+  "description": "Adds a compressed furnace.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rabisu"],
+  "credits": "Pahimar for his Let's Mod series",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
